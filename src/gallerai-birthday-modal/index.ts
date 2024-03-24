@@ -1,0 +1,1 @@
+export { default } from './gallerai-birthday-modal';
